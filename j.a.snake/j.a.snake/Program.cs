@@ -10,8 +10,19 @@ namespace j.a.snake
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hell World");
+
+            Draw(1, 2, '*');
+            Draw(5, 7, '*');
+
             Console.ReadLine();
         }
+
+        static void Draw(int x , int y, char sym)
+        {
+            Console.SetCursorPosition(x, y);
+            Console.Write(sym);
+
+        }
+
     }
 }
