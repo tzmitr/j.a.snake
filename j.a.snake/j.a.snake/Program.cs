@@ -10,19 +10,16 @@ namespace j.a.snake
     {
         static void Main(string[] args)
         {
+            Point p1 = new Point();
+            Point p2 = new Point();
 
-            Draw(1, 2, '*');
-            Draw(5, 7, '*');
+            p1.Draw(1, 2, '*');
+            p2.Draw(5, 7, '$');
 
             Console.ReadLine();
         }
 
-        static void Draw(int x , int y, char sym)
-        {
-            Console.SetCursorPosition(x, y);
-            Console.Write(sym);
 
-        }
 
     }
 }
