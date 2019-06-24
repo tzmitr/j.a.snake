@@ -1,0 +1,7 @@
+C:\Users\zmitruk\Documents\OOP\j.a.snake\j.a.snake\j.a.snake\bin\Debug\j.a.snake.exe.config
+C:\Users\zmitruk\Documents\OOP\j.a.snake\j.a.snake\j.a.snake\bin\Debug\j.a.snake.exe
+C:\Users\zmitruk\Documents\OOP\j.a.snake\j.a.snake\j.a.snake\bin\Debug\j.a.snake.pdb
+C:\Users\zmitruk\Documents\OOP\j.a.snake\j.a.snake\j.a.snake\obj\Debug\j.a.snake.csprojAssemblyReference.cache
+C:\Users\zmitruk\Documents\OOP\j.a.snake\j.a.snake\j.a.snake\obj\Debug\j.a.snake.csproj.CoreCompileInputs.cache
+C:\Users\zmitruk\Documents\OOP\j.a.snake\j.a.snake\j.a.snake\obj\Debug\j.a.snake.exe
+C:\Users\zmitruk\Documents\OOP\j.a.snake\j.a.snake\j.a.snake\obj\Debug\j.a.snake.pdb
